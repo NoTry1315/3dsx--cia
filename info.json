@@ -3,7 +3,7 @@
   "Product-Code": "CTR-P-CTR1",
   "Banner": "banner.png",
   "Input": "input.3dsx",
-  "Icon": "icon.bin",
+  "Icon": "icon.smdh",
   "Output": "output.cia",
   "Bnr_audio": "audio.wav"
 }
