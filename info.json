@@ -1,9 +1,9 @@
 {
-  "Title-ID": "000400000F3D5000",
-  "Product-Code": "CTR-P-MW3D",
+  "Title-ID": "0004000005512600",
+  "Product-Code": "CTR-P-GTHC",
   "Banner": "banner.png",
   "Input": "input.3dsx",
-  "Icon": "icon.smdh",
+  "Icon": "icon.png",
   "Output": "output.cia",
   "Bnr_audio": "audio.wav"
 }
